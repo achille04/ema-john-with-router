@@ -13,7 +13,7 @@ const useProducts = () => {
 
 
     // Return necessary things
-    return [products];
+    return [products, setProducts];
 
 }
 
